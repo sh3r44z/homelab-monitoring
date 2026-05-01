@@ -1,0 +1,6 @@
+.env
+*.secret
+grafana/data/
+prometheus/data/
+alertmanager/data/
+*.log
