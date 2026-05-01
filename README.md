@@ -1,4 +1,4 @@
-# 🖥️ Homelab Monitoring Stack
+#Homelab Monitoring Stack
 
 A production-inspired observability stack running on a self-hosted Ubuntu server. Built with Docker Compose — fully reproducible, zero vendor lock-in.
 
