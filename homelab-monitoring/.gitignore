@@ -4,3 +4,4 @@ grafana/data/
 prometheus/data/
 alertmanager/data/
 *.log
+.DS_Store
